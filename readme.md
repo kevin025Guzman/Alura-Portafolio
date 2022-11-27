@@ -2,7 +2,6 @@
 
 <div align="center">
   
-![Screen portfolio](https://user-images.githubusercontent.com/42880872/202799583-b9dfe422-4b39-416a-861a-0f165df50bad.png)
   
 </div>
 
